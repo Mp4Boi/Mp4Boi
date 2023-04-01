@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Mp4Boi
-- 👀 I’m stealing codes to make it better 
-- 🌱 I’m currently learning C++ 
-
+Beginner of Lua script maker
 
 <!---
 Mp4Boi/Mp4Boi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
